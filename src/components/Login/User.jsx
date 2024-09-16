@@ -2,7 +2,10 @@ import React from "react";
 
 const User = () => {
     return(
-        <>User</>
+        <div>
+            User
+            <input type="User"/>
+            </div>
     )
 }
 
